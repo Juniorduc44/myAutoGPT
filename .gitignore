@@ -1,3 +1,6 @@
+#new ignores
+*practice*
+*venv*
 ## Original ignores
 autogpt/keys.py
 autogpt/*json
